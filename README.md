@@ -10,7 +10,7 @@
 
 ## 🔭 Current Work
 
-- Machine Learning: **k-NN, k-means, Neural Network...**
+- Machine Learning: ***k*-NN, *k*-means, Neural Network...**
 - Optimization Problems: **DFS, BFS, Dijkstra, Roy-Floyd-Wharshall, A\*...**
 - Cellular automatons: **Physical models, Conway's Game of Life...**
 - Word Research: **Levenstein Distance, Hanning Distance...**
