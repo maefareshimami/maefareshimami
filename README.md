@@ -2,7 +2,7 @@
 
 <p align = "center">
   <a href = "https://github.com/DenverCoder1/readme-typing-svg">
-    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0677BF&size=25&center=true&vCenter=true&width=600&height=100&lines=Aerospace+Engineering+Student;Machine+Learning+Enthusiast" alt = "Typing SVG">
+    <img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=0677BF&size=25&center=true&vCenter=true&width=600&height=100&lines=MS+in+AI+&+CS;Looking+for+an+AI+Research+Internship" alt = "Typing SVG">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 ## 🔭 Current Work
 
 - Machine Learning: ***k*-NN, *k*-means, Neural Network...**
-- Optimization Problems: **DFS, BFS, Dijkstra, Roy-Floyd-Wharshall, A\*...**
+- Optimization Problems: **DFS, BFS, Dijkstra, Roy-Floyd-Wharshall, A\*, Simplex...**
 - Cellular automatons: **Physical models, Conway's Game of Life...**
 - Word Research: **Levenstein Distance, Hanning Distance...**
 - Many projects coming soon!
@@ -20,7 +20,7 @@
 
 ## 💻 Languages
 
-![Languages](https://skillicons.dev/icons?i=py,matlab,sqlite,html,css)
+![Languages](https://skillicons.dev/icons?i=py,sqlite,c,java,r,ocaml,matlab,html,css)
 
 ---
 
